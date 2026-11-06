@@ -1,2 +1,2 @@
 # sunshinevibes
-personal project
+A place to practice and store my data analytics work.
